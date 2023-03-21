@@ -344,7 +344,7 @@ html{
     color: #000000;
 }
 
-                        /* RRESPONSIVE*/
+                        /* RESPONSIVE*/
 @media screen and (max-width:800px){
     .skills .contenido-seccion .fila{
         display: block;

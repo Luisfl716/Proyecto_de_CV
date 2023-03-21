@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../PROGRAM"
+		},
+		{
+			"path": "../../../proyecto front/Proyecto_CV"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto_CV"
+	}
+}
